@@ -1,6 +1,6 @@
-# 📌 Financial Risk & Anomaly Detection in Stock Market Data
+#  Financial Risk & Anomaly Detection in Stock Market Data
 
-## 📖 Overview
+## Overview
 
 Financial markets are highly dynamic and subject to sudden changes that can significantly impact investment decisions. Detecting abnormal behaviors and identifying high-risk periods is therefore essential for effective risk management.
 
@@ -8,7 +8,7 @@ This project proposes a data-driven approach to analyze stock market data, detec
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main goals of this project are:
 
@@ -20,7 +20,7 @@ The main goals of this project are:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset consists of historical stock market data, including:
 
@@ -34,7 +34,7 @@ The dataset was processed and enriched to extract meaningful insights.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -93,16 +93,16 @@ This simplifies interpretation for decision-making.
 
 A Power BI dashboard was developed to provide:
 
-- 📈 Price evolution over time  
-- 🚨 Detection of anomalies  
-- 📊 Volatility and volume analysis  
-- 🎯 Risk level monitoring  
+- Price evolution over time  
+- Detection of anomalies  
+- Volatility and volume analysis  
+- Risk level monitoring  
 
 The dashboard allows users to interactively explore market behavior.
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 
 The analysis revealed:
 
@@ -115,19 +115,19 @@ These insights are valuable for anticipating risky situations.
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 This project provides practical value for:
 
-- 📊 **Investors** → Identify risky investment periods  
-- 🏦 **Financial Analysts** → Monitor market behavior  
-- 📉 **Risk Managers** → Improve risk assessment strategies  
+-  **Investors** → Identify risky investment periods  
+-  **Financial Analysts** → Monitor market behavior  
+-  **Risk Managers** → Improve risk assessment strategies  
 
 It enables **data-driven decision-making** in financial contexts.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** (Pandas, NumPy)  
 - **Scikit-learn** (Isolation Forest)  
@@ -136,4 +136,5 @@ It enables **data-driven decision-making** in financial contexts.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+## Bejtit Salma
